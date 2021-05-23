@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/obito.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.narutoobito.RNchatapp"
     },
     "web": {
       "favicon": "./assets/obito.png"
